@@ -24,8 +24,6 @@ requirements:
     - xorg-libxtst
     - xorg-libxinerama
     - libxkbcommon
-  run:
-    - xorg-libxtst
 
 test:
   commands:
