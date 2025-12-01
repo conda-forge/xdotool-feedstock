@@ -23,6 +23,7 @@ requirements:
     - xorg-libxi
     - xorg-libxtst
     - xorg-libxinerama
+    - xorg-xorgproto
     - libxkbcommon
 
 test:
